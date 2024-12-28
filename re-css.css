@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.re-color{
+    background-color: #add8e6af;
+}
+.re-color1{
+   background-color: rgba(0, 0, 0, 0.068);
+}
+.left-dynamic-isl{
+    color: white;
+    display: flex;
+    border-radius: 0px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 20px;
+    font-size: 40px !important;
+    align-items: center;
+    padding: 30px;
+    text-wrap: nowrap;
+}
+.re-small{
+    font-size: 12px;
+}
+.agdasima-regular {
+    font-family: "Agdasima", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .re-decoration{
+    text-decoration: none !important;
+  }
+  .re-p{
+    padding-left: 30px;
+  }
+  
+  .agdasima-bold {
+    font-family: "Agdasima", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .aref-ruqaa-ink-regular {
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .aref-ruqaa-ink-bold {
+    font-family: "Aref Ruqaa Ink", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+.outline{
+    background-color: #00008b1c;
+    height: 30px;
+    width: 50%;
+    border-radius: 15px;
+
+}
+.re-testimony{
+    background-color: rgba(139, 223, 238, 0.151) !important;
+}
+
+.white{
+    color: white;
+}
+img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.re-bt{
+    background-color: #0065a0c2 !important;
+    
+}
+.re-icon{
+    background-color: #1669999f;
+}
+  
+.skills {
+    text-align: center;
+    margin: 20px;
+}
+
+.skill-icons .skill {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.skill-icons i {
+    font-size: 40px;
+    color: #0077be;
+}
+.re-form{
+    background-color: rgba(226, 223, 223, 0.301) !important;
+}
+
